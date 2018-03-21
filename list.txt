@@ -1,7 +1,7 @@
 Bouton A    Spin : Wahwah
             OOY  : Hip
 
-Bouton B    Saut : Pitch Up f(sin)
+Bouton B    Saut : Pitch f(sin)
             Je vooooooole : Phaser
 
 Bouton X/Y    Course : FM
@@ -10,6 +10,6 @@ Bouton X/Y    Course : FM
             
             
 QUAND ON VA A GAUCHE : La Musique est a l'envers lol
-
+QUAND ON BOUGE PAS : VINYLE RAYE
 Eventuellement Pas les memes effets sur Overwolrd et Castle
  
