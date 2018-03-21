@@ -1,4 +1,4 @@
-Bouton A    Spin : Wahwah
+Bouton A    Spin : Distortion
             OOY  : Hip
 
 Bouton B    Saut : Pitch f(sin)
