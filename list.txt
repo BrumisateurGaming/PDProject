@@ -1,0 +1,13 @@
+Bouton A    Spin : Wahwah
+            OOY  : Hip
+
+Bouton B    Saut : Pitch Up f(sin)
+            Je vooooooole : Phaser
+
+Bouton X/Y    Course : FM
+            Boule magique : Cri
+            #Balance ton porc : Cri
+            
+            
+QUAND ON VA A GAUCHE : La Musique est a l'envers lol
+ 
