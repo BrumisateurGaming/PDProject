@@ -9,3 +9,8 @@ Croix Directionnelle Droite : D
 
 
 ABXY : ABXY
+
+LT : L
+RT : R
+LB : O
+RB : P
